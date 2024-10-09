@@ -1,4 +1,4 @@
-# Imperial Mess-Relay --- A Mess Management Application
+# Mess Manager --- A Mess Management Application
 
 A Web Application which we completed during the CodeSangam'23 
 
